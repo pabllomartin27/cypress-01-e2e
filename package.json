@@ -1,0 +1,23 @@
+{
+  "name": "cypress-01-e2e-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabllomartin27/cypress-01-e2e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabllomartin27/cypress-01-e2e/issues"
+  },
+  "homepage": "https://github.com/pabllomartin27/cypress-01-e2e#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.3.3"
+  }
+}
